@@ -4,7 +4,6 @@ Build a React Hooks CRUD Application to consume Web API with Axios, display and 
 - We can create, retrieve, update, delete Tutorials.
 - There is a Search bar for finding Tutorials by title.
 
-![react-hooks-crud-axios-api-example](react-hooks-crud-axios-api-example.png)
 
 For instruction, please visit:
 > [React Hooks CRUD example with Axios and Web API](https://bezkoder.com/react-hooks-crud-axios-api/)
